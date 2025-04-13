@@ -1,0 +1,179 @@
+{
+  "company_info": {
+    "name": "AI Search",
+    "description": "AI-powered intelligent search solution for websites",
+    "mission": "To transform website search capabilities through advanced AI technology, making information instantly accessible and contextually relevant.",
+    "unique_selling_points": [
+      "Context-aware search responses",
+      "Vector database integration",
+      "Real-time learning capabilities",
+      "Multi-language support",
+      "Easy integration with existing websites"
+    ]
+  },
+  "product_features": {
+    "core_features": {
+      "vector_search": {
+        "description": "Advanced vector database technology for efficient content storage and retrieval",
+        "benefits": [
+          "Fast and accurate search results",
+          "Semantic understanding of content",
+          "Scalable to millions of documents",
+          "Efficient storage and retrieval"
+        ],
+        "technical_details": {
+          "database_type": "ChromaDB",
+          "indexing_method": "Vector embeddings",
+          "query_processing": "Semantic similarity matching"
+        }
+      },
+      "context_awareness": {
+        "description": "AI system that understands the context of questions and provides relevant answers",
+        "capabilities": [
+          "Natural language understanding",
+          "Context retention across conversations",
+          "Topic-based response generation",
+          "Semantic search capabilities"
+        ]
+      },
+      "learning_system": {
+        "description": "Continuous learning system that improves responses based on user interactions",
+        "features": [
+          "User feedback integration",
+          "Query pattern analysis",
+          "Response optimization",
+          "Automated content updates"
+        ]
+      }
+    },
+    "integration": {
+      "methods": [
+        "API integration",
+        "JavaScript widget",
+        "WordPress plugin",
+        "Custom implementation"
+      ],
+      "supported_platforms": [
+        "WordPress",
+        "Shopify",
+        "Custom websites",
+        "Web applications",
+        "Mobile apps"
+      ],
+      "technical_requirements": {
+        "api_access": true,
+        "authentication": "API key-based",
+        "rate_limits": "Based on subscription plan",
+        "data_security": "Enterprise-grade encryption"
+      }
+    }
+  },
+  "use_cases": {
+    "e_commerce": {
+      "description": "Enhance product search and customer support",
+      "benefits": [
+        "Improved product discovery",
+        "Instant answers to product queries",
+        "Reduced support tickets",
+        "Better conversion rates"
+      ]
+    },
+    "knowledge_base": {
+      "description": "Intelligent documentation and help center search",
+      "benefits": [
+        "Quick access to documentation",
+        "Reduced support costs",
+        "Improved user satisfaction",
+        "24/7 automated support"
+      ]
+    },
+    "content_websites": {
+      "description": "Enhanced content discovery and navigation",
+      "benefits": [
+        "Better content engagement",
+        "Reduced bounce rates",
+        "Improved user experience",
+        "Contextual content recommendations"
+      ]
+    }
+  },
+  "pricing": {
+    "starter": {
+      "price": "$49/month",
+      "features": [
+        "1,000 searches/month",
+        "Basic vector database",
+        "Standard support",
+        "1 website integration"
+      ],
+      "best_for": "Small websites and blogs"
+    },
+    "professional": {
+      "price": "$99/month",
+      "features": [
+        "10,000 searches/month",
+        "Advanced vector database",
+        "Priority support",
+        "5 website integrations",
+        "Analytics dashboard"
+      ],
+      "best_for": "Growing businesses and medium-sized websites"
+    },
+    "enterprise": {
+      "price": "Custom",
+      "features": [
+        "Unlimited searches",
+        "Custom vector database",
+        "24/7 dedicated support",
+        "Unlimited integrations",
+        "Advanced analytics",
+        "Custom features"
+      ],
+      "best_for": "Large organizations and high-traffic websites"
+    }
+  },
+  "faq": {
+    "technical": [
+      {
+        "question": "How easy is it to integrate the search system?",
+        "answer": "Integration is straightforward with our JavaScript widget or API. Most websites can be set up within minutes using our step-by-step guide."
+      },
+      {
+        "question": "What programming languages are supported?",
+        "answer": "Our API supports all major programming languages including JavaScript, Python, PHP, Ruby, and Java."
+      },
+      {
+        "question": "How secure is the data?",
+        "answer": "We use enterprise-grade encryption and follow industry best practices for data security. All data is encrypted both in transit and at rest."
+      }
+    ],
+    "business": [
+      {
+        "question": "Can I upgrade or downgrade my plan?",
+        "answer": "Yes, you can change your plan at any time. Changes take effect at the start of the next billing cycle."
+      },
+      {
+        "question": "Do you offer a free trial?",
+        "answer": "Yes, we offer a 14-day free trial on all plans with full feature access."
+      },
+      {
+        "question": "What kind of support do you provide?",
+        "answer": "We offer email support for all plans, priority support for Professional plans, and 24/7 dedicated support for Enterprise customers."
+      }
+    ]
+  },
+  "support": {
+    "channels": [
+      "Email support",
+      "Live chat",
+      "Phone support (Enterprise)",
+      "Documentation",
+      "Video tutorials"
+    ],
+    "response_times": {
+      "starter": "Within 24 hours",
+      "professional": "Within 12 hours",
+      "enterprise": "Within 1 hour"
+    }
+  }
+} 

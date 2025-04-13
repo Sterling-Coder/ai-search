@@ -1,0 +1,10 @@
+#pip install fastapi uvicorn pydantic huggingface_hub chromadb requests beautifulsoup4 python-multipart
+
+fastapi==0.109.2
+uvicorn==0.27.1
+pydantic==2.6.1
+huggingface_hub==0.20.3
+chromadb==0.4.22
+requests==2.31.0
+beautifulsoup4==4.12.3
+python-multipart==0.0.6
